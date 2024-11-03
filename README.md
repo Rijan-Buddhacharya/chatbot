@@ -1,7 +1,7 @@
 Installation
 Clone the Repository:
 
-git clone https://github.com/yourusername/chatbot.git
+git clone https://github.com/Rijan-Buddhacharya/chatbot.git
 
 cd chatbot
 Set Up the Database:
